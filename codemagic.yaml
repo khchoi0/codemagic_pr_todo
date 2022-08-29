@@ -39,7 +39,7 @@ workflows:
     publishing:
       email:
         recipients:
-          - your@email.here
+          - khchoi0121@gmail.com
   pull-request:
     name: Pull request
     max_build_duration: 60
